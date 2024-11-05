@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("autoLight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f9e0fca0374f0cbafd87e8e0d9ca6504f792f1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("autoLight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("autoLight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
