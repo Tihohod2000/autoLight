@@ -10,7 +10,7 @@ class Program
         using (BrightnessDetector detector = new BrightnessDetector())
         {
             CancellationTokenSource cts = new CancellationTokenSource();
-            Console.WriteLine("Нажмите LCtrl + C чтобы остановить программу...");
+            Console.WriteLine("Нажмите LCtrl + C чтобы остановить программу....");
 
             int lastChenge = 10;
 
